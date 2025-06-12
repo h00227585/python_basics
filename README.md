@@ -137,3 +137,8 @@
 [context_manager_3_1](./context_manager_3_1.py)
 
 [context_manager_3_2](./context_manager_3_2.py)
+
+## list访问越界会发生什么
+
+[list_index_demo](./list_index_demo.py)
+
